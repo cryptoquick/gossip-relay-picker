@@ -14,7 +14,7 @@ edition = "2021"
 [dependencies]
 async-trait = "0.1"
 dashmap = "5.4"
-nostr-types = { git = "https://github.com/cryptoquick/nostr-types", rev = "c57b1fbf83378333e892db1c6dc28825d32e8556" }
+nostr-types = { git = "https://github.com/cryptoquick/nostr-types", rev = "43d5c8b910409b5fbc1c15d103b2c8ffc4c5338a" }
 thiserror = "1.0"
 tracing = "0.1"
 tokio = { version = "1", features = ["full"] }
